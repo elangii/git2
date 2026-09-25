@@ -1,4 +1,4 @@
-# Welcome to Git
+# Hello everyone, welcome to by guide!
 
-- This coming from `dev-theangi`
+- Yo, melodicow here
 -I'm adding this from `feature-branch`
